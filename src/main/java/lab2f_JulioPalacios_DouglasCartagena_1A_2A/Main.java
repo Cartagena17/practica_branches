@@ -44,7 +44,7 @@ public class Main {
         System.out.println(viaje);
         System.out.println(viaje1);
         System.out.println("prueba de ramas");
-
+        System.out.println("prueba ramas 2");
 
     }
 
